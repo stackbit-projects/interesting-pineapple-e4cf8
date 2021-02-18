@@ -83,7 +83,7 @@ sections:
         actions:
           - label: Learn More
             url: /style-guide
-            style: secondary
+            style: primary
             has_icon: true
             icon: arrow-right
             icon_position: right
