@@ -65,7 +65,7 @@ sections:
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla, fringilla.
         actions:
-          - label: Learn More
+          - label: Let's edit this button
             url: /style-guide
             style: secondary
             has_icon: true
