@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Let's start editing...
+    title: That's neat. Let's edit from these blocks too!
     subtitle: Optional hero section subtitle
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
