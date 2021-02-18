@@ -141,3 +141,4 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
+domain: 'https://interesting-pineapple-e4cf8.netlify.app'
